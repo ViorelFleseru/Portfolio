@@ -10,7 +10,7 @@ It has 4 sections:
     b. Project 2
     c. Project 3
     4. Project 4
-4. Contact me form
+4. Contact me form.
 
 The GitHub calendar was imported from "https://www.npmjs.com/package/github-calendar"
 
